@@ -1,7 +1,7 @@
 # Watchverse
 
 **Tagline:**  
-*Your Universe of Videos.*
+*Watch, Upload, Inspire...*
 
 ---
 
@@ -23,7 +23,7 @@ Whether you're here to discover, share, or create — **Watchverse** brings your
 
 ## Schema
 
-You can view the database schema [here]("https://app.eraser.io/workspace/bIZ203oeh1lDslIAb8Xc").
+You can view the database schema here ["https://app.eraser.io/workspace/bIZ203oeh1lDslIAb8Xc"].
 
 ---
 
