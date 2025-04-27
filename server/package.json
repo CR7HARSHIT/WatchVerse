@@ -4,9 +4,13 @@
   "description": "Watchverse is your all-in-one video-sharing and creator platform!\nWatch videos from across the world, upload your own content, and engage with a vibrant community through likes, comments, and posts.Build your personal channel, track your watched and liked videos, and grow your audience easily.With your own dashboard, manage all your uploaded videos, see your subscriber count, and stay in full control of your content.You can store videos as drafts and publish them live whenever you're ready, giving you complete flexibility in your creative journey.Whether you're here to discover, share, or create — Watchverse brings your video world to life",
   "license": "ISC",
   "author": "Harshvardhan Singh Rao",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
